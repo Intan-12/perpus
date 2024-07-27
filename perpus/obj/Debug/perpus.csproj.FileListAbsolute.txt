@@ -1,0 +1,9 @@
+D:\New folder\perpus\perpus\bin\Debug\perpus.exe.config
+D:\New folder\perpus\perpus\bin\Debug\perpus.exe
+D:\New folder\perpus\perpus\bin\Debug\perpus.pdb
+D:\New folder\perpus\perpus\obj\Debug\perpus.csprojResolveAssemblyReference.cache
+D:\New folder\perpus\perpus\obj\Debug\perpus.Form1.resources
+D:\New folder\perpus\perpus\obj\Debug\perpus.Properties.Resources.resources
+D:\New folder\perpus\perpus\obj\Debug\perpus.csproj.GenerateResource.Cache
+D:\New folder\perpus\perpus\obj\Debug\perpus.exe
+D:\New folder\perpus\perpus\obj\Debug\perpus.pdb
